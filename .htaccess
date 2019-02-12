@@ -1,0 +1,6 @@
+Options All -Indexes
+#Sintaxis Error carpeta despues de htdocs y la ruta del archivo
+
+ErrorDocument 404 /usabili/error.html
+ErrorDocument 403 /usabili/error.html
+
